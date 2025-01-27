@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 To clone this repository to your local machine, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/your-username/coupon-code-app.git
+git clone [https://github.com/your-username/coupon-code-app.git](https://github.com/SaurHub123/Coupon.git)
 ```
 
 ### 2. Install Dependencies
@@ -67,9 +67,9 @@ Make sure you have an emulator running, or a physical device connected to your m
 
 ## Author
 
-- **Name**: [Your Name]
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Name**: [Saurabh Kumar]
+- **GitHub**: [https://github.com/SaurHub123](https://github.com/SaurHub123)
+- **Email**: [Saurabhbadal7262@gmail.com](mailto:Saurabhbadal7262@gmail.com)
 
 ---
 
@@ -83,11 +83,8 @@ This project is open-source and available under the MIT License. Feel free to co
 
 If you have any questions or suggestions, feel free to contact me at:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
+- **Email**: [Saurabhbadal7262@gmail.com](mailto:Saurabhbadal7262@gmail.com)
+- **GitHub**: [https://github.com/SaurHub123](https://github.com/SaurHub123)
 
 ---
 
-### Notes
-- If you have a screenshot of your app, make sure to update the image link (`App Screenshot`) to the correct path.
-- Replace `your-username` with your actual GitHub username and provide an actual email address or contact link.
